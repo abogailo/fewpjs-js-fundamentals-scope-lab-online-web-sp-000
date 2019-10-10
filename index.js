@@ -20,7 +20,7 @@ function add2(n) {
 
 }
 //git@github.com/learn-co-curriculum/javascript-fix-the-scope-lab.git"
-  }
+  
   "keywords": [
     "javascript",
     "flatiron",
